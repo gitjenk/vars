@@ -1,4 +1,4 @@
-@Library('share-git-org@master')_
+@Library('share-git-org')_
 
 node ('10_10_4_217') {
 
